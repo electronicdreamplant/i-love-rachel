@@ -11,7 +11,7 @@ var quotes = [
 	quote: "her laugh is the most wonderful sound in the world.",
 	},
 	{
-	quote: "she's the smartest person I know but thinks I am too.",
+	quote: "she's the smartest person I know (but thinks I am too).",
 	},
 	{
 	quote: "she always says 'that looks great' when I cook something.",
@@ -20,16 +20,28 @@ var quotes = [
 	quote: "she's beautiful. Her smile lights up my day.",
 	},
 	{
-	quote: "she is always looking out for other people.",
+	quote: "she is always looking out for other people (but mostly me).",
 	},
 	{
-	quote: "she has so many talents - sewing, knitting, languages, art.",
+	quote: "she has so many talents - sewing, knitting, languages, art, house decoration, word puzzles etc.",
 	},
 	{
-	quote: "she always appreciates me.",
+	quote: "she always appreciates me, no matter what.",
 	},
 	{
 	quote: "she's the first person I want to talk to about anything.",
+	},
+	{
+	quote: "the house feels empty when she's not in it.",
+	},
+	{
+	quote: "I'm an emotional jigsaw and she is  the 'blue bits'.",
+	},
+	{
+	quote: "she's always willing to 'share her warmth' when she'd cold.",
+	},
+	{
+	quote: "she overlooks the daily abuse and naughtiness she's subjected to.",
 	},
 	{
 	quote: "the house empty when she's not here.",
