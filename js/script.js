@@ -20,9 +20,6 @@ var quotes = [
 	quote: "she's beautiful. Her smile lights up my day.",
 	},
 	{
-	quote: "A man who flies from his fear may find that he has only taken a shortcut to meet it.",
-	},
-	{
 	quote: "she is always looking out for other people.",
 	},
 	{
