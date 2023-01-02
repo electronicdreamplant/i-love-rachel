@@ -23,7 +23,7 @@ var quotes = [
 	quote: "A man who flies from his fear may find that he has only taken a shortcut to meet it.",
 	},
 	{
-	quote:  "she is always looking out for other people.",
+	quote: "she is always looking out for other people.",
 	},
 	{
 	quote: "she has so many talents - sewing, knitting, languages, art.",
@@ -36,12 +36,6 @@ var quotes = [
 	},
 	{
 	quote: "the house empty when she's not here.",
-	},
-	{
-	quote: "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward.",
-	},
-	{
-	quote: "More fuck yeah, less fuck that.",
 	},
 ];
 
