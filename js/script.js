@@ -2,22 +2,22 @@
 //Object Array to hold quotes, sources, citaitons and years
 var quotes = [
 	{
-	quote: "Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.",
+	quote: "she's happy to see me every morning when she wakes up.",
 	},
 	{
-	quote: "This too, shall pass.",
+	quote: "she's always makes me feel better when I'm not feeling OK.",
 	},
 	{
-	quote: "Keep your eyes on the stars and your feet on the ground.",
+	quote: "her laugh is the most wonderful sound in the world.",
 	},
 	{
-	quote: "The only person you should try to be better than is the person you were yesterday.",
+	quote: "she's the smartest person I know but thinks I am too.",
 	},
 	{
-	quote: "Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself.",
+	quote: "she always says 'that looks great' when I cook something for us.",
 	},
 	{
-	quote: "Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods.",
+	quote: "she's beautiful. Her smile lights up my day.",
 	},
 	{
 	quote: "A man who flies from his fear may find that he has only taken a shortcut to meet it.",
