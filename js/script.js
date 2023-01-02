@@ -14,7 +14,7 @@ var quotes = [
 	quote: "she's the smartest person I know but thinks I am too.",
 	},
 	{
-	quote: "she always says 'that looks great' when I cook something for us.",
+	quote: "she always says 'that looks great' when I cook something.",
 	},
 	{
 	quote: "she's beautiful. Her smile lights up my day.",
@@ -23,19 +23,19 @@ var quotes = [
 	quote: "A man who flies from his fear may find that he has only taken a shortcut to meet it.",
 	},
 	{
-	quote:  "Life's too mysterious to take too serious.",
+	quote:  "she is always looking out for other people.",
 	},
 	{
-	quote: "No one can make you feel inferior without your consent.",
+	quote: "she has so many talents - sewing, knitting, languages, art.",
 	},
 	{
-	quote: "The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before.",
+	quote: "she always appreciates me.",
 	},
 	{
-	quote: "You can't go around building a better world for people. Only people can build a better world for people. Otherwise it's just a cage.",
+	quote: "she's the first person I want to talk to about anything.",
 	},
 	{
-	quote: "There isn't a way things should be. There's just what happens, and what we do.",
+	quote: "the house empty when she's not here.",
 	},
 	{
 	quote: "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward.",
