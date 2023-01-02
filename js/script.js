@@ -1,5 +1,5 @@
 
-//Object Array to hold quotes, sources, citaitons and years
+//Object Array to hold quotes
 var quotes = [
 	{
 	quote: "she's happy to see me every morning when she wakes up.",
@@ -61,21 +61,12 @@ function printQuote () {
 		var quotes = getRandomQuote ();
 		var quoteContainer = document.getElementById("quote-box");
 		var quoteString = `<p class="quote">${quotes.quote}</p>`;
-	/*
-				if (quotes.citation) {quoteString += `<span class="citation">${quotes.citation}</span>`}
-				if (quotes.year) {quoteString += `<span class="year">${quotes.year}</span></p>`}
-				else {quoteString += '</p>'}; */
+
 					quoteContainer.innerHTML = quoteString;
 
 					//assigns random color value to document background color 
 					document.body.style.backgroundColor = getRandomColor ();
 }
-/*
-//Quote automatically refreshes every 15 seconds
-window.setInterval(function(){
-printQuote ();
-}, 15000);
-*/
 
 //Event listener on LoadQuote button to generate new quote		
 document.getElementById("loadQuote").addEventListener("click", printQuote, false);
