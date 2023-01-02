@@ -2,7 +2,8 @@ body {
   /*text-align: center;*/
   background-size: cover;
   color: white;
-  font-family: 'Amatic SC', cursive;
+/*font-family: 'Amatic SC', cursive; --> */
+  font-family: 'Suisse-Intl-SemiBold,sans-serif;
   background-color: rgb(95,207,128);
 }
 #quote-box {
