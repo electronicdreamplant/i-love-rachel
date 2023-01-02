@@ -67,9 +67,10 @@ function printQuote () {
 		var quotes = getRandomQuote ();
 		var quoteContainer = document.getElementById("quote-box");
 		var quoteString = `<p class="quote">${quotes.quote}</p>`;
+	/*
 				if (quotes.citation) {quoteString += `<span class="citation">${quotes.citation}</span>`}
 				if (quotes.year) {quoteString += `<span class="year">${quotes.year}</span></p>`}
-				else {quoteString += '</p>'};
+				else {quoteString += '</p>'}; */
 					quoteContainer.innerHTML = quoteString;
 
 					//assigns random color value to document background color 
